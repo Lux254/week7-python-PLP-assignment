@@ -10,7 +10,7 @@ This project demonstrates loading, analyzing, and visualizing a dataset using **
 - Inspected the first few rows with `.head()`.
 
 ### Sample of the Dataset
-![Dataset Head](/images/top_5.png)
+![Dataset Head](images/top_5.png)
 
 - Checked datatypes and missing values using `.info()`.
 
